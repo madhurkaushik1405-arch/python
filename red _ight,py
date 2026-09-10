@@ -1,0 +1,7 @@
+light = input("enter the traffic light color: ")
+if (light == "red"):
+    print("stop")
+elif (light == "green"):
+    print("go")
+
+else: print("light is broken")
