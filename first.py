@@ -32,3 +32,7 @@ print(a<=b)
 num=10
 num = num+10
 print(num)
+#logical operators
+print(not True)
+print(True and False)
+print(True or False)
