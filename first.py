@@ -10,4 +10,5 @@ a=None
 print(type(a))
 x= 10
 y= 20
-print (x+y)
+sum = x+y
+print (sum)
