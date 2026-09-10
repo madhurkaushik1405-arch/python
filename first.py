@@ -4,4 +4,5 @@ name = "madhur"
 age = 18
 age2 =age
 print (name)
-print (age2);
+print (age2)
+print ((type(age)))
