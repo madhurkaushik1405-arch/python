@@ -8,3 +8,6 @@ print (age2)
 print ((type(age)))
 a=None
 print(type(a))
+x= 10
+y= 20
+print (x+y)
