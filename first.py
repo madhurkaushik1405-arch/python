@@ -12,3 +12,6 @@ x= 10
 y= 20
 sum = x+y
 print (sum)
+p,q = 10, 20
+txt="@"
+print(10*txt*20)
