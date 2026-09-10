@@ -1,3 +1,6 @@
+import math
+
+
 A=int(input("enter the first number: "))
 B=int(input("enter the second number: "))
 print("the sum of two numbers is: ",A+B)
@@ -7,3 +10,13 @@ print("the division of two numbers is: ",A/B)
 print("the remainder of two numbers is: ",A%B)
 print("the floor division of two numbers is: ",A//B)
 print("the power of two numbers is: ",A**B)
+print("the average of two numbers is: ",(A+B)/2)
+print("the maximum of two numbers is: ",max(A,B))
+print("the minimum of two numbers is: ",min(A,B))
+print("the absolute value of two numbers is: ",abs(A),abs(B))
+print("the square root of two numbers is: ",A**0.5,B**0.5)
+print("the cube root of two numbers is: ",A**(1/3),B**(1/3))
+print("the logarithm of two numbers is: ",math.log(A),math.log(B))
+print("the sine of two numbers is: ",math.sin(A),math.sin(B))
+print("the cosine of two numbers is: ",math.cos(A),math.cos(B))
+print("the tangent of two numbers is: ",math.tan(A),math.tan(B))
