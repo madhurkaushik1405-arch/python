@@ -6,3 +6,5 @@ age2 =age
 print (name)
 print (age2)
 print ((type(age)))
+a=None
+print(type(a))
